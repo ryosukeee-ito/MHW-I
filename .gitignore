@@ -1,0 +1,4 @@
+mysql-storage/*
+proxy/log/*
+src/mhw/__pycache__/*
+src/uwsgi.log
